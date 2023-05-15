@@ -8,5 +8,5 @@ Deep learning (DL) is the type of machine learning (ML) that resembles human bra
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Sneha199930/DeepL/blob/main/Image.jpg)
 
